@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GHOST-PackageFiles", "GHOST-PackageFiles\GHOST-PackageFiles.vcxproj", "{A437C4F5-C8E7-4BBB-BC43-16BE7AFF8099}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "load_test", "load_test\load_test.vcxproj", "{2CB3C16F-51F8-40C4-AD2D-DC71AACE06A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A437C4F5-C8E7-4BBB-BC43-16BE7AFF8099}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A437C4F5-C8E7-4BBB-BC43-16BE7AFF8099}.Debug|Win32.Build.0 = Debug|Win32
+		{A437C4F5-C8E7-4BBB-BC43-16BE7AFF8099}.Release|Win32.ActiveCfg = Release|Win32
+		{A437C4F5-C8E7-4BBB-BC43-16BE7AFF8099}.Release|Win32.Build.0 = Release|Win32
+		{2CB3C16F-51F8-40C4-AD2D-DC71AACE06A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CB3C16F-51F8-40C4-AD2D-DC71AACE06A2}.Debug|Win32.Build.0 = Debug|Win32
+		{2CB3C16F-51F8-40C4-AD2D-DC71AACE06A2}.Release|Win32.ActiveCfg = Release|Win32
+		{2CB3C16F-51F8-40C4-AD2D-DC71AACE06A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
